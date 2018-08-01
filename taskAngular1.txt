@@ -1,0 +1,10 @@
+Xndir@ 1
+
+unenal user object 
+	name 
+	surname
+	email
+	password
+	
+ekranin cuic tal
+buttoni clicki depqum poxel grvacy
