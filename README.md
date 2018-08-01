@@ -1,11 +1,3 @@
-echo "# angularChangeUserData" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/GhalmukhyanA/angularChangeUserData.git
-git push -u origin master
-
-
 # AngularChangeUserData
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
